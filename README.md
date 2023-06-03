@@ -1,7 +1,3 @@
-<img src="https://drive.google.com/file/d/1OPvoYZyyQKd7Ejjey2nfhlyLHZumaF4m/preview" width="600" height="300"/>
-<iframe src="https://giphy.com/embed/KpACNEh8jXK2Q" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-monkey-KpACNEh8jXK2Q">via GIPHY</a></p>
-<iframe src="https://drive.google.com/file/d/1OPvoYZyyQKd7Ejjey2nfhlyLHZumaF4m/preview" width="640" height="480" allow="autoplay"></iframe>
-
 # 💫 About Me:
 🔭 I’m currently working on Data Science Projects <br>👯 I’m looking to collaborate on projects involving M.L. and A.I.<br>🌱 I’m currently learning Amazon Web Services for Data/Machine Learing <br>💬 Ask me about Data Science Projects in Python & R, Cloud (AWS)<br>⚡ Fun fact - I am fond of 🗣️ talkative person
 
