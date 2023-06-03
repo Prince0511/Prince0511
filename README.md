@@ -18,4 +18,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Prince0511&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![](https://drive.google.com/uc?id=1OPvoYZyyQKd7Ejjey2nfhlyLHZumaF4m)
+![Memes](https://drive.google.com/uc?id=1OPvoYZyyQKd7Ejjey2nfhlyLHZumaF4m)
