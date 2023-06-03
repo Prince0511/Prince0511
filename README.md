@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="600" height="300"/>
+
 ﻿# 💫 About Me:
 🔭 I’m currently working on Data Science Projects <br>👯 I’m looking to collaborate on projects involving M.L. and A.I.<br>🌱 I’m currently learning Amazon Web Services for Data/Machine Learing <br>💬 Ask me about Data Science Projects in Python & R, Cloud (AWS)<br>⚡ Fun fact - I am fond of 🗣️ talkative person
 
@@ -17,5 +19,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Prince0511&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-![Memes](https://drive.google.com/uc?id=1OPvoYZyyQKd7Ejjey2nfhlyLHZumaF4m)
