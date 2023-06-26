@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Science Projects <br>👯 I’m looking to collaborate on projects involving M.L. and A.I.<br>🌱 I’m currently learning Amazon Web Services for Data/Machine Learing <br>💬 Ask me about Data Science Projects in Python & R, Cloud (AWS)<br>⚡ Fun fact - I am fond of 🗣️ talkative person
+🔭 I’m currently working on Data Science Projects <br>👯 I’m looking to collaborate on projects involving M.L. and A.I.<br>🌱 I’m currently learning Amazon Web Services for Data/Machine Learing <br>💬 Ask me about Data Science Projects in Python & R, Cloud (AWS)<br>⚡ Fun fact - I am kind of 🗣️ talkative person
 
 
 ## 🌐 Socials:
